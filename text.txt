@@ -1,0 +1,25 @@
+source 
+https://www.youtube.com/watch?v=-FWuNnCe73g
+Full stack Python Flask tutorial - Build a social network
+
+run in cmd
+>> pip install virtualenv
+>> virtualenv myenv
+
+search your activate.bat directory on myenv
+>> myenv\Scripts\activate.bat
+
+>> pip install flask
+
+build schema.sql file
+edit schema.sql file
+
+install sqlite3
+>> sqlite3 database.db < schema.sql
+
+build app.py
+>> pip install flask
+
+
+
+
